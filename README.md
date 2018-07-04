@@ -38,3 +38,15 @@ Throwing this into the best-seat function, we find that the best seat is going t
 Sometimes, it might be a good idea to sit a little closer, which is why the 4th row is marked too
 
 It's also assumed that the middle seats are the best, so I won't return that
+
+<hr>
+
+## Installation
+
+Simply ensure that Python (doesn't matter if 2 or 3) is installed. To check if it is correctly installed, type `python` in the command prompt/terminal
+
+<hr>
+
+## Running the function
+
+In the same directory as the rest of the module, simply type: `python main.py`, and enter the needed information
