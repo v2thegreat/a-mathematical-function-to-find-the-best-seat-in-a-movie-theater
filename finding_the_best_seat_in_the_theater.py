@@ -1,6 +1,5 @@
 from math import cos, sin, ceil
 
-
 peripheral_view = 114
 
 
@@ -17,7 +16,7 @@ def cot(angle):
     return cos(angle)/sin(angle)
 
 
-def main():
+def run_example():
     width_of_screen = 14
     distance_between_screen_and_first_row = 1
 
@@ -28,4 +27,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    run_example()
