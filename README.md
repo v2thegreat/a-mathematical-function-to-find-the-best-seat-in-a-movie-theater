@@ -23,7 +23,7 @@ The function is given by:
 
 An Example of this can be found here:
 
-![](images/theater view.png?raw=true)
+![example-view](images/theater view.png?raw=true)
 
 
 ###### Here:
