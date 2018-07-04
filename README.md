@@ -33,6 +33,8 @@ An Example of this can be found here:
 *	`distance between screen and first row` is `1 seat` (marked as `x`)
 * `best seat` is what we need to find
 
+**Note:** In the image, the angle is mentioned to be approx. 109 degrees instead of the 114. This is because it can be argued that both, the 4th and the 5th rows are the best rows. To keep things simple, I just picked the angle between both of them
+
 Throwing this into the best-seat function, we find that the best seat is going to be `5th Row`
 
 Sometimes, it might be a good idea to sit a little closer, which is why the 4th row is marked too
