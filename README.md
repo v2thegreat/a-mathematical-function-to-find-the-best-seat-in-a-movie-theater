@@ -23,7 +23,7 @@ The function is given by:
 
 An Example of this can be found here:
 
-![example-view](images/theater view.png?raw=true)
+![example-view](https://github.com/v2thegreat/a-mathematical-function-to-find-the-best-seat-in-a-movie-theater/blob/master/images/theater%20view.png)
 
 
 ###### Here:
