@@ -23,7 +23,7 @@ def run_example():
     best_seat = find_best_seat(width_of_screen,
                                distance_between_screen_and_first_row)
 
-    print(f'Best Seat Position: {best_seat}th row')
+    print('Best Seat Position: {}th row'.format(best_seat))
 
 
 if __name__ == '__main__':
